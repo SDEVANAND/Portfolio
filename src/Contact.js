@@ -49,7 +49,7 @@ return (
                         style={{color:"blue"}} />
                 </li>
                 <li class="nav-item">
-                    <a href="https://github.com/SDEVANAND/Firstprojec" class="fa fa-github nav-link"
+                    <a href="https://github.com/SDEVANAND/Portfolio" class="fa fa-github nav-link"
                         style={{color:"black"}} />
                 </li>
                 <li class="nav-item">

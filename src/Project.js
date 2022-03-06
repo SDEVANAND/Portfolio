@@ -56,7 +56,7 @@ return (
                     />
                 </li>
                 <li class="nav-item">
-                    <a href="https://github.com/SDEVANAND/Firstprojec"
+                    <a href="https://github.com/SDEVANAND/Portfolio"
                     class="fa fa-github nav-link"
                     style={{color:"black"}}
                     />
